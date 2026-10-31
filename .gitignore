@@ -1,0 +1,16 @@
+# Exclude specific asset folders containing media
+assets/images/
+assets/videos/
+
+# Generic media extensions (safety net)
+*.mp4
+*.m4v
+*.mkv
+*.mov
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.webp
+*.ico
